@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 1 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 
 ---
 
@@ -21,6 +21,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/uttkarshjaiswal9-debug/CodeForces-ViteCoders/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
+| 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/uttkarshjaiswal9-debug/CodeForces-ViteCoders/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
 
 ---
 
