@@ -6,15 +6,37 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 1 |
+| 4 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (3)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [data structures](#data-structures) (1)
+- [greedy](#greedy) (1)
+- [implementation](#implementation) (4)
+- [math](#math) (1)
 
 ---
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/uttkarshjaiswal9-debug/CodeForces-ViteCoders/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/uttkarshjaiswal9-debug/CodeForces-ViteCoders/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/uttkarshjaiswal9-debug/CodeForces-ViteCoders/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
 
 ### implementation
 
@@ -23,6 +45,13 @@
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/uttkarshjaiswal9-debug/CodeForces-ViteCoders/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/uttkarshjaiswal9-debug/CodeForces-ViteCoders/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/uttkarshjaiswal9-debug/CodeForces-ViteCoders/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/uttkarshjaiswal9-debug/CodeForces-ViteCoders/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1430C | [Numbers on Whiteboard](https://codeforces.com/contest/1430/problem/C) | 1000 | [Java 21](https://github.com/uttkarshjaiswal9-debug/CodeForces-ViteCoders/blob/HEAD/1430/C%20-%20Numbers%20on%20Whiteboard/solution.java) |
 
 ---
 
